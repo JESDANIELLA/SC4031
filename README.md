@@ -6,6 +6,9 @@
 
 Flutter-based mobile application designed for fruits image classification (10 groups). It uses a TensorFlow Lite (TFLite) model to perform inference and prediction on images uploaded via the app. The app supports gallery uploads and communicates with a Flask backend server for processing.
 
+### Demo Video
+https://youtu.be/xrEKxUjpwIY
+
 ### Setup
 
 #### Flask Backend
@@ -40,7 +43,4 @@ flutter pub get
 ```
 flutter run
 ```
-
-### Demo Video
-
-
+=
