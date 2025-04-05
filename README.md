@@ -24,8 +24,8 @@ pip install -r requirements.txt
 ```
 3. Clone the Repository
 ```
-git clone https://github.com/JESDANIELLA/SC4031-.git
-cd SC4031-/CourseProject
+git clone https://github.com/JESDANIELLA/SC4031.git
+cd SC4031/CourseProject
 ```
 
 2.Install Dependencies
