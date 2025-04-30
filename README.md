@@ -2,6 +2,8 @@
 
 ## 1. Term Paper - TraceTogether BLE
 
+Presentation Video: https://youtu.be/DN1Q74_DlMY
+
 ## 2. Flutter-based Image Classification App with Flask Backend
 
 Flutter-based mobile application designed for fruits image classification (10 groups). It uses a TensorFlow Lite (TFLite) model to perform inference and prediction on images uploaded via the app. The app supports gallery uploads and communicates with a Flask backend server for processing.
